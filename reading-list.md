@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I think it very insteresting to read:
+I love books! Here are some books that are very insteresting to read:
 
 1. Victor Hugo.: *Ninety-Three*
 2. Jack London: *The Call of the Wild*
@@ -16,6 +16,6 @@ I love books! Here are some I think it very insteresting to read:
 6. LaoZi: *Tao Te Ching*
 7. CuCai Wu: *Guwen Guanzhi*
 
-Here is also some useful links for understanding what does Ph.D. look like
+Here are also some useful links for Ph.D. students or anyone who wants to apply for Ph.D.
 1. [THE PH.D. GRIND](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 2. [Advice from Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
