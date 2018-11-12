@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yigong Hu
-subtitle: The homepage
+subtitle: PhD student
 description: >- # this means to ignore newlines until "baseurl:"
   This is the homepage of Yigong Hu
 author: Yigong Hu
