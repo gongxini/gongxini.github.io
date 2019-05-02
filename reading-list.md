@@ -19,3 +19,4 @@ I love books! Here are some books that are very insteresting to read:
 Here are also some useful links for Ph.D. students or anyone who wants to apply for Ph.D.
 1. [THE PH.D. GRIND](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 2. [Advice from Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
+2. pThe illustrated guide to a Ph.D] (http://matt.might.net/articles/phd-school-in-pictures/)
